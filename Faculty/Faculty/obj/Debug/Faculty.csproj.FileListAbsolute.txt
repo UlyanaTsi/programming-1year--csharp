@@ -1,0 +1,6 @@
+/Users/ulyanatsimbalistaya/Projects/Faculty/Faculty/obj/Debug/Faculty.csprojAssemblyReference.cache
+/Users/ulyanatsimbalistaya/Projects/Faculty/Faculty/obj/Debug/Faculty.csproj.CoreCompileInputs.cache
+/Users/ulyanatsimbalistaya/Projects/Faculty/Faculty/bin/Debug/Faculty.exe
+/Users/ulyanatsimbalistaya/Projects/Faculty/Faculty/bin/Debug/Faculty.pdb
+/Users/ulyanatsimbalistaya/Projects/Faculty/Faculty/obj/Debug/Faculty.exe
+/Users/ulyanatsimbalistaya/Projects/Faculty/Faculty/obj/Debug/Faculty.pdb
