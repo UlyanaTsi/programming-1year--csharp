@@ -1,0 +1,6 @@
+/Users/ulyanatsimbalistaya/Projects/astro/astro/obj/Debug/astro.csprojAssemblyReference.cache
+/Users/ulyanatsimbalistaya/Projects/astro/astro/obj/Debug/astro.csproj.CoreCompileInputs.cache
+/Users/ulyanatsimbalistaya/Projects/astro/astro/bin/Debug/astro.exe
+/Users/ulyanatsimbalistaya/Projects/astro/astro/bin/Debug/astro.pdb
+/Users/ulyanatsimbalistaya/Projects/astro/astro/obj/Debug/astro.exe
+/Users/ulyanatsimbalistaya/Projects/astro/astro/obj/Debug/astro.pdb
