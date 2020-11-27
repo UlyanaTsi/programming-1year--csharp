@@ -1,0 +1,9 @@
+/Users/ulyanatsimbalistaya/Projects/KDZ/KDZ/bin/Debug/KDZ.exe
+/Users/ulyanatsimbalistaya/Projects/KDZ/KDZ/bin/Debug/KDZ.pdb
+/Users/ulyanatsimbalistaya/Projects/KDZ/KDZ/bin/Debug/ClassesLibrary.dll
+/Users/ulyanatsimbalistaya/Projects/KDZ/KDZ/bin/Debug/ClassesLibrary.pdb
+/Users/ulyanatsimbalistaya/Projects/KDZ/KDZ/obj/Debug/KDZmine.csprojAssemblyReference.cache
+/Users/ulyanatsimbalistaya/Projects/KDZ/KDZ/obj/Debug/KDZmine.csproj.CoreCompileInputs.cache
+/Users/ulyanatsimbalistaya/Projects/KDZ/KDZ/obj/Debug/KDZmine.csproj.CopyComplete
+/Users/ulyanatsimbalistaya/Projects/KDZ/KDZ/obj/Debug/KDZ.exe
+/Users/ulyanatsimbalistaya/Projects/KDZ/KDZ/obj/Debug/KDZ.pdb
